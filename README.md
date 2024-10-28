@@ -17,3 +17,4 @@
     - week days
     - time of the day
 - heartrate vs average speed progression from week to week
+- consecutive days frequency
